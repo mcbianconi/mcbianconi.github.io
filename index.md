@@ -3,23 +3,23 @@ Murillo Cesar Bianconi
 
 ## Contact
 | Conctact | Infor |
-| :--: | :--: |
+| :---: | :---: |
 | email | murillo.bianconi@gmail.com |
 | phone / *whatsapp* | +55 55 99639-6855 |
 | Linkedin | @mcbianconi |
 
 
-#Who am I
+# Who am I
 
-#What can I do
+# What can I do
 
-#What can't I do
+# What can't I do
 
-#What I like
+# What I like
 
-#Things I did that you can see online
+# Things I did that you can see online
 
-#Formal Education
+# Formal Education
 
 2011-2015
 :   **Bsc, Military Science**; Academia Militar das Agulhas Negras (AMAN)
