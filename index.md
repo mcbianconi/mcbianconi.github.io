@@ -1,31 +1,42 @@
-# Murillo Cesar Bianconi
+Murillo Cesar Bianconi
+======================
 
-Johnny Coder
-============
+## Contact
+----------
+| :--: | :--: |
+| email | murillo.bianconi@gmail.com
+| phone / *whatsapp* | +55 55 99639-6855
+| Linkedin | /in/mcbianconi
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
 
-Education
----------
+## Who am I
+-----------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## What can I do
+-----------------
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+## What can't I do
+-------------------
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+## What I like
+---------------
 
+## Things I did that you can see online
+----------------------------------------
+
+## Formal Education
+-------------------
+
+2011-2015
+:   **Bsc, Military Science **; Academia Militar das Agulhas Negras (AMAN)
+    *Thesis title: Importance of psychological tests in the war-oriented officer*
+
+2005-2007
+:   **Técnico em Informática Industrial**; ETEP
     *Minor: Awesomeology*
 
-Experience
-----------
+## Work Experience
+------------------
 
 **Your Most Recent Work Experience:**
 
