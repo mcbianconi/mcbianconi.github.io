@@ -10,6 +10,10 @@ Murillo Cesar Bianconi
 
 
 # Who am I
+Sou um profissional apaixonado por liderar pessoas e resolver problemas.
+Em 2015 me formei na Academia Militar das Agulhas Negras, como oficial de Cavalaria, onde
+aprendi a liderar pessoas em situações críticas e de extrema pressão.
+
 
 # What can I do
 
