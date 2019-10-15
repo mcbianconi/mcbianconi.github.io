@@ -2,11 +2,11 @@ Murillo Cesar Bianconi
 ======================
 
 ## Contact
-| Conctact | Infor |
-| :---: | :---: |
-| email | murillo.bianconi@gmail.com |
-| phone / *whatsapp* | +55 55 99639-6855 |
-| Linkedin | @mcbianconi |
+| Conctact 		| Info	 			|
+| :---: 		| :---: 			|
+| email 		| murillo.bianconi@gmail.com 	|
+| phone *whatsapp* 	| +55 55 99639-6855 		|
+| Linkedin 		| @mcbianconi 			|
 
 
 # Who am I
