@@ -7,7 +7,7 @@ Murillo Cesar Bianconi
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - Phone (**WhatsApp**): +55 55 99639-6855
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
-[avatar.jpg](https://postimg.cc/tnxqjjPz)
+![](https://postimg.cc/34r0YdJF)
 
 
 ## Quem sou eu?
