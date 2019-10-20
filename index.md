@@ -1,3 +1,5 @@
+[gimmick:theme](cosmo)
+
 Murillo Cesar Bianconi
 ======================
 
@@ -8,7 +10,6 @@ Murillo Cesar Bianconi
 
 
 ## Quem sou eu?
----------------
 >Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
 
 
