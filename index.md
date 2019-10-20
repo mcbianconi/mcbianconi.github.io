@@ -3,16 +3,16 @@
 Murillo Cesar Bianconi
 ======================
 
+## Quem sou eu?
+![](https://mcbianconi.github.io/avatar.jpg)
+Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
+
 ## Contato
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - Phone (**WhatsApp**): +55 55 99639-6855
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
 
-
-## Quem sou eu?
-Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
-![](https://mcbianconi.github.io/avatar.jpg)
-
+Note: A maneira mais rápida de me encontrar é pelo WhatsApp!
 
 ## Do que sou capaz
 -------------------
