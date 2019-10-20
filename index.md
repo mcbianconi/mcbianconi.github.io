@@ -1,37 +1,37 @@
 Murillo Cesar Bianconi
 ======================
 
-## Contact
-- Email: murillo.bianconi@gmail.com
+## Contato
+- Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - Phone (**whatsapp**): +55 55 99639-6855
-- Linkedin: @mcbianconi
+- [Linkedin](https://www.linkedin.com/in/mcbianconi)
 
 
-## Who am I
+## Quem eu sou
 Sou um profissional apaixonado por liderar pessoas e resolver problemas. Programador desde 2007 e Oficial de Cavalaria formado pela Academia Militar das Agulhas Negras desde 2015.
 
 
-## What can I do
-### Minha paixão por programar me permite:
+## Do que sou capaz
+### Minha paixão por programar me permite
 - Resolver problemas com facilidade
 - Aprender coisas novas com rapidez e de maneira independente
 - Programar soluções (web ou nao) do inicio ao fim.
 
-### Minha formação militar me permite:
+### Minha formação militar me permite
 - Ter tranquilidade ao trabalhar sob condições de grande pressão e responsabilidade
 - Liderar pessoas em situações adversas, incutindo nelas valores de comprometimento e dedicação
 
 
-## What can't I do
+## De que não sou capaz
 - Ter eficacia suficiente com UI/UX para que isso seja meu trabalho integral.
 
-## What I like
+## O que eu gosto
 - Um bom ambiente de trabalho.
 - Ajudar a criar e liderar uma equipe unida e vencedora.
 - Ter flexibilidade para atuar nos campos que estou envolvido.
 - Lealdade!
 
-## Things I did that you can see online
+## Um pouco do que pode ser visto online
 
 My Cool Si0de Project
    For items which don't have a clear time ordering, a definition
@@ -49,7 +49,7 @@ Open Source
     your idea...
 
 
-### Linguagens de Programação
+### Assuntos que eu gosto
 
    **Python:** Desde meados de 2008 utilizando Python para automatizar tarefas do cotidiano,
    como repetição de tarefas burocráticas dentro do Exército e até mesmo de cunho pessoal, comecei a desenvolver projetos Freelance para clientes e em plataformas online a partir de 2018.
@@ -64,17 +64,17 @@ Open Source
 [ref]: https://github.com/githubuser/superlongprojectname
 
 
-## Formal Education
+## Educação Formal
 
 2011-2015
-    **Bsc, Military Science**; Academia Militar das Agulhas Negras (AMAN)
-    *TCC: A importância da avaliação psicologia na formação do oficial da linha militar bélica*
+    **Bacharel em Ciências Militares**; Academia Militar das Agulhas Negras (AMAN)
+    *TCC: A importância da avaliação psicológica na formação do oficial da linha militar bélica*
 
 2005-2007
     **Técnico em Informática Industrial**; ETEP Faculdades.
-    *Sao Jose dos Campos: colegial técnico em tempo integral*
+    *São José dos Campos: colegial técnico em tempo integral*
 
-## Work Experience
+## Experiência de Trabalho
 
 ### Oficial de Cavalaria [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (2015-2019)**
 Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
