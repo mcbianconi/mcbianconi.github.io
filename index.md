@@ -12,14 +12,14 @@ Sou um profissional apaixonado por liderar pessoas e resolver problemas. Program
 
 
 ## What can I do
-### Minha paixao por programar me permite:
+### Minha paixão por programar me permite:
 - Resolver problemas com facilidade
 - Aprender coisas novas com rapidez e de maneira independente
-- Programar solucoes (web ou nao) do inicio ao fim.
+- Programar soluções (web ou nao) do inicio ao fim.
 
-### Minha formacao militar me permite:
+### Minha formação militar me permite:
 - Ter tranquilidade ao trabalhar sob condições de grande pressão e responsabilidade
-- Liderar pessoas em situacoes adversas, incutindo nelas valores de comprometimento e dedicação
+- Liderar pessoas em situações adversas, incutindo nelas valores de comprometimento e dedicação
 
 
 ## What can't I do
@@ -33,49 +33,8 @@ Sou um profissional apaixonado por liderar pessoas e resolver problemas. Program
 
 ## Things I did that you can see online
 
-# Formal Education
-
-2011-2015
-    **Bsc, Military Science**; Academia Militar das Agulhas Negras (AMAN)
-    *TCC: A importancia da avaliacao psicologia na formacao do oficial da linha militar belica*
-
-2005-2007
-    **Técnico em Informática Industrial**; ETEP Faculdades.
-    *Sao Jose dos Campos: colegial tecnico em tempo integral*
-
-# Work Experience
-
-## Oficial de Cavalaria [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (2015-2019)**
-Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
-
-**Comandante de Subunidade**: Oficial responsavel pela conducao de mais de 130 pessoas em atividades de instrucao e adestramento.
-Pude orientar e guiar jovens e nem tao jovens assim, utilizando tecnicas de lideranca e de gerenciamento de pessoas para que o coletivo atingisse os objetivos impostos pelo comando de maneira voluntaria e espontanea.
-
-Realizei estagios de Gerenciamento de Crises e Negociacao de refens, de Operacoes de Garantia da Lei e da Ordem, Operacoes de Defesa Externa
-
-
-## Academia Militar das Agulhas Negras [(AMAN)](http://www.aman.eb.mil.br/) (2011-2015)**
- Instituição responsável pela formação dos oficiais combatentes de carreira do Exército Brasileiro - Resende, RJ.
-
- **Curso: Cavalaria** - Apos aprovacao em concurso, ingressei na Academia Militar. Tive a honra de durante 5 anos frequentar, em regime integral, a formacao basica, avancada e me especializar no curso de Cavalaria.
- Desenvolvi valores de disciplina, organizacao, arrojo, resistencia fisica e mental, abnegacao e lealdade, que permitem me sentir a vontade para cumprir qualquer atividade sob as piores condicoes.
- Realizei estagios de combate em montanha, selva, tecnicas especiais, patrulhas de longo alcance e contra-guerrilhas.
-
-
-## [Mult-e](https://www.mult-e.com.br/) (2009-2010)**
-Software Company – São José dos Campos, SP.
-
-**Programador Web**: Na Mult-e tive a oportunidade de tambem trabalhar em um sistema de gestao empresarial para a area de saude, onde os maiores clientes eram clinicas particulares de medicina. Pude participar do processo de manutencao desse sistema feito utilizando principalmente tecnologias Java, atraves de implementacoes de pequenas melhorias e correcoes
-
-
-## [Zilics](https://www.facebook.com/pages/Zilics-Sistemas-de-informa%C3%A7%C3%A3o-em-sa%C3%BAde/115528501790607) (2007-2009)**
-Healthcare Information Systems Company – São José dos Campos, SP.
-
-**Programador Web**: Ingressei na Zilics como estagiario e fui efetivado programador. Ali tive a oportunidade de ajudar a criar um sistema para a area de saude que tinha a finalidade de melhorar a qualidade do processo de atendimento do paciente e de apoio ao diagnostico medico. Nossa stack era composta de diversas tecnologias Java, como Spring, Hibernate, JSF e ate mesmo um pouco de JavaScript.
-
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
+My Cool Si0de Project
+   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
 
     * These items can also contain lists, but you need to mind the
@@ -83,41 +42,74 @@ My Cool Side Project
     * Second item.
 
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
+   List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+### Linguagens de Programação
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
+   **Python:** Desde meados de 2008 utilizando Python para automatizar tarefas do cotidiano,
+   como repetição de tarefas burocráticas dentro do Exército e até mesmo de cunho pessoal, comecei a desenvolver projetos Freelance para clientes e em plataformas online a partir de 2018.
+
+   **Java:** Linguagem de uso no início de minha carreira
+
+   **obscure-but-impressive-lang:** We both know this one's pushing
     it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-# Extra Section, Call it Whatever You Want
 
-* Human Languages:
+## Formal Education
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+2011-2015
+    **Bsc, Military Science**; Academia Militar das Agulhas Negras (AMAN)
+    *TCC: A importância da avaliação psicologia na formação do oficial da linha militar bélica*
 
-* Random tidbit
+2005-2007
+    **Técnico em Informática Industrial**; ETEP Faculdades.
+    *Sao Jose dos Campos: colegial técnico em tempo integral*
 
-* Other sort of impressive-sounding thing you did
+## Work Experience
+
+### Oficial de Cavalaria [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (2015-2019)**
+Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
+
+**Comandante de Subunidade**: Oficial responsável pela condução de mais de 130 pessoas em atividades de instrução e adestramento. Além de prestar assessoramento ao comando da unidade, pude orientar e guiar jovens (e nem tão jovens), utilizando técnicas de liderança e de gerenciamento de pessoas para que o coletivo atingisse os objetivos dados pelo comando de maneira voluntaria e espontânea.
+
+**Instrutor-chefe do Núcleo de Instrução de Recrutas**: Fui o responsável por organizar o ano de instrução de aproximadamente 200 jovens que prestaram o serviço militar obrigatório. Para isso, conduzi 6 equipes de oficiais e sargentos com o objetivo de, ao final de 1 ano, devolver para a sociedade um conjunto de pessoas que, além de capazes de compor a reserva militar da força, fossem capaz de impulsionar o desenvolvimento nacional através de bons valores morais e éticos.
+
+**Comandante de Pelotão**: Comandei um pelotão mecanizado composto por 36 homens e 9 viaturas em atividades de planejamento, instrução e operações reais na faixa de fronteira do Brasil-Argentina, visando o combate ao narcotráfico e aos crimes transfronteiriços.
+Realizei estágios de Gerenciamento de Crises e Negociação de reféns, de Operações de Garantia da Lei e da Ordem e Operações de Defesa Externa.
+
+
+
+### Academia Militar das Agulhas Negras [(AMAN)](http://www.aman.eb.mil.br/) (2011-2015)**
+ Instituição responsável pela formação dos oficiais combatentes de carreira do Exército Brasileiro - Resende, RJ.
+
+ **Curso: Cavalaria** - Apos aprovação em concurso, ingressei na Academia Militar. Tive a honra de durante 5 anos frequentar, em regime integral, a formação básica, avançada e me especializar no curso de Cavalaria.
+ Desenvolvi valores de disciplina, organização, arrojo, resistencia física e mental, abnegação e lealdade, que permitem me sentir a vontade para cumprir qualquer atividade sob as piores condições.
+ Realizei estágios de combate em montanha, selva, técnicas especiais, patrulhas de longo alcance e contra-guerrilhas.
+
+
+### [Mult-e](https://www.mult-e.com.br/) (2009-2010)**
+Software Company – São José dos Campos, SP.
+
+**Programador Web**: Na Mult-e tive a oportunidade de mais uma vez trabalhar em um sistema de gestão empresarial para a area de saúde, onde os maiores clientes eram clinicas particulares de medicina. Pude participar do processo de manutenção desse sistema, feito com tecnologias Java, através de pequenas melhorias e correções
+
+
+### [Zilics](https://www.facebook.com/pages/Zilics-Sistemas-de-informa%C3%A7%C3%A3o-em-sa%C3%BAde/115528501790607) (2007-2009)**
+Healthcare Information Systems Company – São José dos Campos, SP.
+
+**Programador Web**: Ingressei na Zilics como estagiário e fui efetivado programador. Ali tive a oportunidade de ajudar a criar um sistema para a area de saúde que tinha a finalidade de melhorar a qualidade do processo de atendimento do paciente e de apoio ao diagnostico medico. Nossa stack era composta de diversas tecnologias Java, como Spring, Hibernate, JSF e ate mesmo um pouco de JavaScript.
+
+## Informações Adicionais
+
+* Idiomas
+
+     * Português
+     * Inglês
