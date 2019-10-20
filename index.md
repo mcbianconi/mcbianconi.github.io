@@ -2,56 +2,77 @@ Murillo Cesar Bianconi
 ======================
 
 ## Contact
-| Conctact 		| Info	 			|
-| :---: 		| :---: 			|
-| email 		| murillo.bianconi@gmail.com 	|
-| phone *whatsapp* 	| +55 55 99639-6855 		|
-| Linkedin 		| @mcbianconi 			|
+- Email: murillo.bianconi@gmail.com
+- Phone (**whatsapp**): +55 55 99639-6855
+- Linkedin: @mcbianconi
 
 
-# Who am I
-Sou um profissional apaixonado por liderar pessoas e resolver problemas.
-Em 2015 me formei na Academia Militar das Agulhas Negras, como oficial de Cavalaria, onde
-aprendi a liderar pessoas em situações críticas e de extrema pressão.
+## Who am I
+Sou um profissional apaixonado por liderar pessoas e resolver problemas. Programador desde 2007 e Oficial de Cavalaria formado pela Academia Militar das Agulhas Negras desde 2015.
 
 
-# What can I do
+## What can I do
+### Minha paixao por programar me permite:
+- Resolver problemas com facilidade
+- Aprender coisas novas com rapidez e de maneira independente
+- Programar solucoes (web ou nao) do inicio ao fim.
 
-# What can't I do
+### Minha formacao militar me permite:
+- Ter tranquilidade ao atuar sob condicoes de grande pressao e responsabilidade.
+- Liderar pessoas em situacoes adversas, incutindo nelas valores de comprometimento e abnegacao.
 
-# What I like
 
-# Things I did that you can see online
+## What can't I do
+- Trabalhar com eficacia suficiente nos campos de design de UI/UX para que isso seja meu trabalho integral.
+
+## What I like
+- Um bom ambiente de trabalho.
+- Ajudar a criar e liderar uma equipe unida e vencedora.
+- Ter flexibilidade para atuar nos campos que estou envolvido.
+- Lealdade!!
+
+## Things I did that you can see online
 
 # Formal Education
 
 2011-2015
-:   **Bsc, Military Science**; Academia Militar das Agulhas Negras (AMAN)
-    *Thesis title: Importance of psychological tests in the war-oriented officer*
+    **Bsc, Military Science**; Academia Militar das Agulhas Negras (AMAN)
+    *TCC: A importancia da avaliacao psicologia na formacao do oficial da linha militar belica*
 
 2005-2007
-:   **Técnico em Informática Industrial**; ETEP
-    *Minor: Awesomeology*
+    **Técnico em Informática Industrial**; ETEP Faculdades.
+    *Sao Jose dos Campos: colegial tecnico em tempo integral*
 
-#Work Experience
+# Work Experience
 
-**Your Most Recent Work Experience:**
+## Oficial de Cavalaria [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (2015-2019)**
+Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+**Comandante de Subunidade**: Oficial responsavel pela conducao de mais de 130 pessoas em atividades de instrucao e adestramento.
+Pude orientar e guiar jovens e nem tao jovens assim, utilizando tecnicas de lideranca e de gerenciamento de pessoas para que o coletivo atingisse os objetivos impostos pelo comando de maneira voluntaria e espontanea.
 
-* First item
+Realizei estagios de Gerenciamento de Crises e Negociacao de refens, de Operacoes de Garantia da Lei e da Ordem, Operacoes de Defesa Externa
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
 
-**That Other Job You Had**
+## Academia Militar das Agulhas Negras [(AMAN)](http://www.aman.eb.mil.br/) (2011-2015)**
+ Instituição responsável pela formação dos oficiais combatentes de carreira do Exército Brasileiro - Resende, RJ.
 
-Also with a short description.
+ **Curso: Cavalaria** - Apos aprovacao em concurso, ingressei na Academia Militar. Tive a honra de durante 5 anos frequentar, em regime integral, a formacao basica, avancada e me especializar no curso de Cavalaria.
+ Desenvolvi valores de disciplina, organizacao, arrojo, resistencia fisica e mental, abnegacao e lealdade, que permitem me sentir a vontade para cumprir qualquer atividade sob as piores condicoes.
+ Realizei estagios de combate em montanha, selva, tecnicas especiais, patrulhas de longo alcance e contra-guerrilhas.
 
-Technical Experience
---------------------
+
+## [Mult-e](https://www.mult-e.com.br/) (2009-2010)**
+Software Company – São José dos Campos, SP.
+
+**Programador Web**: Na Mult-e tive a oportunidade de tambem trabalhar em um sistema de gestao empresarial para a area de saude, onde os maiores clientes eram clinicas particulares de medicina. Pude participar do processo de manutencao desse sistema feito utilizando principalmente tecnologias Java, atraves de implementacoes de pequenas melhorias e correcoes
+
+
+## [Zilics](https://www.facebook.com/pages/Zilics-Sistemas-de-informa%C3%A7%C3%A3o-em-sa%C3%BAde/115528501790607) (2007-2009)**
+Healthcare Information Systems Company – São José dos Campos, SP.
+
+**Programador Web**: Ingressei na Zilics como estagiario e fui efetivado programador. Ali tive a oportunidade de ajudar a criar um sistema para a area de saude que tinha a finalidade de melhorar a qualidade do processo de atendimento do paciente e de apoio ao diagnostico medico. Nossa stack era composta de diversas tecnologias Java, como Spring, Hibernate, JSF e ate mesmo um pouco de JavaScript.
+
 
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
@@ -89,8 +110,7 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+# Extra Section, Call it Whatever You Want
 
 * Human Languages:
 
