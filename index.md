@@ -7,6 +7,7 @@ Murillo Cesar Bianconi
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - Phone (**WhatsApp**): +55 55 99639-6855
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
+[avatar.jpg](https://postimg.cc/tnxqjjPz)
 
 
 ## Quem sou eu?
@@ -27,7 +28,7 @@ Murillo Cesar Bianconi
 
 
 ### Do que não sou capaz
-- Ter eficiência suficiente com UI/UX para que isso seja meu trabalho integral
+- Ter prática suficiente com UI/UX para que isso seja meu trabalho integral
 
 ## O que eu gosto
 -----------------
@@ -41,7 +42,9 @@ Murillo Cesar Bianconi
 
 - Perfil de Freelancer na plataforma online [Workana](https://www.workana.com/freelancer/murillo-cesar-bianconi?utm_source=share-profile&utm_medium=email&utm_campaign=share-2019-10-20)
 
-- [Cidades Militares](http://cidadesmilitares.herokuapp.com/): uma aplicação simples feita com [dados abertos](http://dados.gov.br/) do governo para centralizar informações sobre cidades e unidades militares. Hint: *Work in progress*
+- [Cidades Militares](http://cidadesmilitares.herokuapp.com/): uma aplicação simples feita com [dados abertos](http://dados.gov.br/) do governo para centralizar informações sobre cidades e unidades militares. 
+
+Hint: *Work in progress*
 
 ## Linguagens e Tecnologias
 ---------------------------
