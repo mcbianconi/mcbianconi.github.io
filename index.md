@@ -3,19 +3,19 @@ Murillo Cesar Bianconi
 
 ## Contato
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
-- Phone (**whatsapp**): +55 55 99639-6855
-- [Linkedin](https://www.linkedin.com/in/mcbianconi)
+- Phone (**WhatsApp**): +55 55 99639-6855
+- [LinkedIn](https://www.linkedin.com/in/mcbianconi)
 
 
 ## Quem eu sou
-Sou um profissional apaixonado por liderar pessoas e resolver problemas. Programador desde 2007 e Oficial de Cavalaria formado pela Academia Militar das Agulhas Negras desde 2015.
+Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
 
 
 ## Do que sou capaz
 ### Minha paixão por programar me permite
 - Resolver problemas com facilidade
 - Aprender coisas novas com rapidez e de maneira independente
-- Programar soluções (web ou nao) do inicio ao fim.
+- Programar soluções do início ao fim.
 
 ### Minha formação militar me permite
 - Ter tranquilidade ao trabalhar sob condições de grande pressão e responsabilidade
@@ -23,45 +23,29 @@ Sou um profissional apaixonado por liderar pessoas e resolver problemas. Program
 
 
 ## De que não sou capaz
-- Ter eficacia suficiente com UI/UX para que isso seja meu trabalho integral.
+- Ter eficiência suficiente com UI/UX para que isso seja meu trabalho integral
 
 ## O que eu gosto
-- Um bom ambiente de trabalho.
-- Ajudar a criar e liderar uma equipe unida e vencedora.
-- Ter flexibilidade para atuar nos campos que estou envolvido.
+- Um bom ambiente de trabalho
+- Ajudar a criar e liderar uma equipe unida e vencedora
+- Ter flexibilidade para atuar nos campos que estou envolvido
 - Lealdade!
 
 ## Um pouco do que pode ser visto online
 
-My Cool Si0de Project
-   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+* Perfil de Freelancer na plataforma online [Workana](https://www.workana.com/freelancer/murillo-cesar-bianconi?utm_source=share-profile&utm_medium=email&utm_campaign=share-2019-10-20)
+* [Cidades Militares](cidadesmilitares.herokuapp.com/): uma aplicação simples feita com [dados abertos](http://dados.gov.br/) do governo para centralizar informações sobre cidades e unidades militares. *Work in progress*
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-
-### Assuntos que eu gosto
+### Linguagens e Tecnologias
 
    **Python:** Desde meados de 2008 utilizando Python para automatizar tarefas do cotidiano,
    como repetição de tarefas burocráticas dentro do Exército e até mesmo de cunho pessoal, comecei a desenvolver projetos Freelance para clientes e em plataformas online a partir de 2018.
 
-   **Java:** Linguagem de uso no início de minha carreira
+   **JavaScript:** fascinado com a mudança do ambiente de desenvolvimento frontend de alguns anos pra cá, tenho buscado me aperfeiçoar cada vez mais em frameworks como Vue.js.
 
-   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+   **Golang:**  tem sindo meu tópico de estudo nos últimos dias e tenho gostado bastante 
 
-   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
+   Conhecimento básico em **PostgreSQL**, **Docker**
 
 
 ## Educação Formal
@@ -87,8 +71,7 @@ Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
 Realizei estágios de Gerenciamento de Crises e Negociação de reféns, de Operações de Garantia da Lei e da Ordem e Operações de Defesa Externa.
 
 
-
-### Academia Militar das Agulhas Negras [(AMAN)](http://www.aman.eb.mil.br/) (2011-2015)**
+### Academia Militar das Agulhas Negras [(AMAN)](http://www.aman.eb.mil.br/) (2011-2015)
  Instituição responsável pela formação dos oficiais combatentes de carreira do Exército Brasileiro - Resende, RJ.
 
  **Curso: Cavalaria** - Apos aprovação em concurso, ingressei na Academia Militar. Tive a honra de durante 5 anos frequentar, em regime integral, a formação básica, avançada e me especializar no curso de Cavalaria.
@@ -96,20 +79,20 @@ Realizei estágios de Gerenciamento de Crises e Negociação de reféns, de Oper
  Realizei estágios de combate em montanha, selva, técnicas especiais, patrulhas de longo alcance e contra-guerrilhas.
 
 
-### [Mult-e](https://www.mult-e.com.br/) (2009-2010)**
+### [Mult-E](https://www.mult-e.com.br/) (2009-2010)
 Software Company – São José dos Campos, SP.
 
-**Programador Web**: Na Mult-e tive a oportunidade de mais uma vez trabalhar em um sistema de gestão empresarial para a area de saúde, onde os maiores clientes eram clinicas particulares de medicina. Pude participar do processo de manutenção desse sistema, feito com tecnologias Java, através de pequenas melhorias e correções
+**Programador Web**: Na Mult-E tive a oportunidade de mais uma vez trabalhar em um sistema de gestão empresarial para a area de saúde, onde os maiores clientes eram clinicas particulares de medicina. Pude participar do processo de manutenção desse sistema, feito com tecnologias Java, através de pequenas melhorias e correções
 
 
-### [Zilics](https://www.facebook.com/pages/Zilics-Sistemas-de-informa%C3%A7%C3%A3o-em-sa%C3%BAde/115528501790607) (2007-2009)**
+### [Zilics](https://www.facebook.com/pages/Zilics-Sistemas-de-informa%C3%A7%C3%A3o-em-sa%C3%BAde/115528501790607) (2007-2009)
 Healthcare Information Systems Company – São José dos Campos, SP.
 
 **Programador Web**: Ingressei na Zilics como estagiário e fui efetivado programador. Ali tive a oportunidade de ajudar a criar um sistema para a area de saúde que tinha a finalidade de melhorar a qualidade do processo de atendimento do paciente e de apoio ao diagnostico medico. Nossa stack era composta de diversas tecnologias Java, como Spring, Hibernate, JSF e ate mesmo um pouco de JavaScript.
 
+
 ## Informações Adicionais
 
 * Idiomas
-
      * Português
      * Inglês
