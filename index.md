@@ -8,12 +8,12 @@ Murillo Cesar Bianconi
 
 
 ## Quem sou eu?
-===============
+---------------
 >Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
 
 
 ## Do que sou capaz
-===================
+-------------------
 
 ### Minha paixão por programar me permite
 - Resolver problemas com facilidade
@@ -29,21 +29,21 @@ Murillo Cesar Bianconi
 - Ter eficiência suficiente com UI/UX para que isso seja meu trabalho integral
 
 ## O que eu gosto
-=================
+-----------------
 - Um bom ambiente de trabalho
 - Ajudar a criar e liderar uma equipe unida e vencedora
 - Ter flexibilidade para atuar nos campos que estou envolvido
 - Lealdade!
 
 ## Um pouco do que pode ser visto online
-========================================
+----------------------------------------
 
 - Perfil de Freelancer na plataforma online [Workana](https://www.workana.com/freelancer/murillo-cesar-bianconi?utm_source=share-profile&utm_medium=email&utm_campaign=share-2019-10-20)
 
 - [Cidades Militares](cidadesmilitares.herokuapp.com/): uma aplicação simples feita com [dados abertos](http://dados.gov.br/) do governo para centralizar informações sobre cidades e unidades militares. *Work in progress*
 
 ## Linguagens e Tecnologias
-===========================
+---------------------------
 
    **Python:** Desde meados de 2008 utilizando Python para automatizar tarefas do cotidiano,
    como repetição de tarefas burocráticas dentro do Exército e até mesmo de cunho pessoal, comecei a desenvolver projetos Freelance para clientes e em plataformas online a partir de 2018.
@@ -66,7 +66,7 @@ Murillo Cesar Bianconi
     *São José dos Campos: colegial técnico em tempo integral*
 
 ## Experiência de Trabalho
-==========================
+--------------------------
 
 ### Oficial de Cavalaria [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (2015-2019)**
 Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
@@ -100,7 +100,7 @@ Healthcare Information Systems Company – São José dos Campos, SP.
 
 
 ## Informações Adicionais
-=========================
+-------------------------
 
 * Idiomas
      * Português
