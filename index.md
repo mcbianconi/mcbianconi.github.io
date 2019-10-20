@@ -7,10 +7,10 @@ Murillo Cesar Bianconi
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - Phone (**WhatsApp**): +55 55 99639-6855
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
-![](https://postimg.cc/34r0YdJF)
 
 
 ## Quem sou eu?
+![](https://mcbianconi.github.io/avatar.jpg)
 >Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
 
 
