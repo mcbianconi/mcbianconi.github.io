@@ -18,18 +18,18 @@ Sou um profissional apaixonado por liderar pessoas e resolver problemas. Program
 - Programar solucoes (web ou nao) do inicio ao fim.
 
 ### Minha formacao militar me permite:
-- Ter tranquilidade ao atuar sob condicoes de grande pressao e responsabilidade.
-- Liderar pessoas em situacoes adversas, incutindo nelas valores de comprometimento e abnegacao.
+- Ter tranquilidade ao trabalhar sob condições de grande pressão e responsabilidade
+- Liderar pessoas em situacoes adversas, incutindo nelas valores de comprometimento e dedicação
 
 
 ## What can't I do
-- Trabalhar com eficacia suficiente nos campos de design de UI/UX para que isso seja meu trabalho integral.
+- Ter eficacia suficiente com UI/UX para que isso seja meu trabalho integral.
 
 ## What I like
 - Um bom ambiente de trabalho.
 - Ajudar a criar e liderar uma equipe unida e vencedora.
 - Ter flexibilidade para atuar nos campos que estou envolvido.
-- Lealdade!!
+- Lealdade!
 
 ## Things I did that you can see online
 
