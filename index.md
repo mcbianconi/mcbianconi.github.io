@@ -4,13 +4,15 @@ Murillo Cesar Bianconi
 ======================
 
 ## Quem sou eu?
-Sou um profissional apaixonado por liderar pessoas e resolver problemas! Programador desde 2007 e Oficial de Cavalaria desde 2015, junto o melhor dos dois mundos para ser um profissional comprometido e eficiente!
+Sou um profissional apaixonado por liderar pessoas e resolver problemas! Uma mistura de programador e Oficial de Cavalaria, que junta o melhor dos dois mundos para ser um profissional comprometido e eficiente!
+
 ![](https://mcbianconi.github.io/avatar.jpg)
 
 ## Contato
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
-- Phone (**WhatsApp**): +55 55 99639-6855
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
+- Phone (**WhatsApp**): +55 55 99639-6855
+- Backup Phone: +55 12 988 916 937
 
 Note: A maneira mais rápida de me encontrar é pelo WhatsApp!
 
@@ -18,45 +20,49 @@ Note: A maneira mais rápida de me encontrar é pelo WhatsApp!
 -------------------
 
 ### Minha paixão por programar me permite
-- Resolver problemas com facilidade
-- Aprender coisas novas com rapidez e de maneira independente
+- Resolver problemas com facilidade!
+- Aprender coisas novas com rapidez e de maneira independente.
 - Programar soluções do início ao fim.
 
 ### Minha formação militar me permite
-- Ter tranquilidade ao trabalhar sob condições de grande pressão e responsabilidade
-- Liderar pessoas em situações adversas, incutindo nelas valores de comprometimento e dedicação
+- Ter tranquilidade ao trabalhar sob condições de grande pressão e responsabilidade.
+- Liderar pessoas em situações adversas, incutindo nelas valores de comprometimento e dedicação.
 
 
 ### Do que não sou capaz
-- Ter prática suficiente com UI/UX para que isso seja meu trabalho integral
+- Trabalhar com UI/UX de modo que isso seja meu trabalho integral.
 
 ## O que eu gosto
 -----------------
-- Um bom ambiente de trabalho
-- Ajudar a criar e liderar uma equipe unida e vencedora
-- Ter flexibilidade para atuar nos campos que estou envolvido
+- Um bom ambiente de trabalho.
+- Ajudar a criar e liderar uma equipe coesa e vencedora.
+- Ter flexibilidade para atuar nos campos que estou envolvido.
 - Lealdade!
 
 ## Um pouco do que pode ser visto online
 ----------------------------------------
+Hint: *Work in progress*
+
+- Meu perfil no [github](https://github.com/mcbianconi)
+
+- Minha jornada de aprendizagem [mobile](https://github.com/mcbianconi/mi-card)
 
 - Perfil de Freelancer na plataforma online [Workana](https://www.workana.com/freelancer/murillo-cesar-bianconi?utm_source=share-profile&utm_medium=email&utm_campaign=share-2019-10-20)
 
 - [Cidades Militares](http://cidadesmilitares.herokuapp.com/): uma aplicação simples feita com [dados abertos](http://dados.gov.br/) do governo para centralizar informações sobre cidades e unidades militares. 
 
-Hint: *Work in progress*
-
-## Linguagens e Tecnologias
+## Know-How
 ---------------------------
 
-   **Python:** Desde meados de 2008 utilizando Python para automatizar tarefas do cotidiano,
-   como repetição de tarefas burocráticas dentro do Exército e até mesmo de cunho pessoal, comecei a desenvolver projetos Freelance para clientes e em plataformas online a partir de 2018.
+- **Python:** Django e seu ecossistema.
+- **JavaScript:** Vue.js e Nuxt.
+- **Administração de sistemas Linux.**
 
-   **JavaScript:** fascinado com a mudança do ambiente de desenvolvimento frontend de alguns anos pra cá,  busco me aperfeiçoar cada vez mais em frameworks como Vue.js e as tecnologias que o orbitam.
+**Estudando:**  
+- [ ] Golang
+- [x] Flutter
+- [ ] Segurança Cibernética
 
-   **Go:**  meu tópico de estudo dos últimos dias 
-
-   Conhecimento básico em **PostgreSQL** e administração de servidores Linux.
 
 
 ## Educação Formal
@@ -73,10 +79,27 @@ Hint: *Work in progress*
 ## Experiência de Trabalho
 --------------------------
 
-### [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (2016-2019)
+### [Buser](https://www.buser.com.br) (Fev 2020 - now)
+Startup - São José dos campos
+
+**Programador**: Em 2020 resolvi abrir mão da carreira de oficial do Exército Brasileiro e dedicar-me inteiramente a Buser, que é uma plataforma de fretamento colaborativo que está transformando o mercado de viagens de ônibus!
+Tenho o maior orgulho de fazer parte desta história e vejo isso como uma das missões mais importantes da minha vida, onde faço questão de no meu dia-a-dia não abandonar os valores que cultuei em quase 10 anos de caserna.
+
+### [12º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (Nov 2019 - Fev 2020)
+Unidade de Cavalaria do Exercito Brasileiro - Jaguarão, RS.
+
+**Comandante de Subunidade**: Além dos trabalhos esperados de um comandante de subunidade, tive a oportunidade de ser o oficial responsável pelos reintegrados judicialmente da Unidade. Participei de operações na faixa de fronteira, operações tipo polícia, instrução e adestramento.
+
+### [1º Regimento de Cavalaria Mecanizado](http://www.1rcmec.eb.mil.br) (Jan 2016 - Nov 2019)
 Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
 
+
+
+**Chefe da Seção de Informática**: Conduzi os trabalhos da seção de informática, sendo responsável por orientar o emprego do dinheiro público da melhor forma possível, de modo a manter os sistemas informatizados da unidade funcionando com o máximo de segurança e disponibilidade.
+
 **Comandante de Subunidade**: Oficial responsável pela condução de mais de 130 pessoas em atividades de instrução e adestramento. Além de prestar assessoramento ao comando da unidade, pude orientar e guiar jovens (e nem tão jovens), utilizando técnicas de liderança e de gerenciamento de pessoas para que o coletivo atingisse os objetivos dados pelo comando de maneira voluntaria e espontânea.
+
+**Instrutor-chefe da Seção de Instrução de Blindados**: Fui o responsável por implementar as bases da modernização das instalações e instruções de blindados no Regimento, adotando técnicas de simulação e gamificação de acordo com as diretrizes vigente na época, realizando um curso de formação de cabos atiradores de VBR com 100% de aproveitamento.
 
 **Instrutor-chefe do Núcleo de Instrução de Recrutas**: Fui o responsável por organizar o ano de instrução de aproximadamente 200 jovens que prestaram o serviço militar obrigatório. Para isso, conduzi 6 equipes de oficiais e sargentos com o objetivo de, ao final de 1 ano, devolver para a sociedade um conjunto de pessoas que, além de capazes de compor a reserva militar da força, fossem capaz de impulsionar o desenvolvimento nacional através de bons valores morais e éticos.
 
@@ -84,7 +107,7 @@ Unidade de Cavalaria do Exercito Brasileiro - Itaqui, RS.
 Realizei estágios de Gerenciamento de Crises e Negociação de reféns, de Operações de Garantia da Lei e da Ordem e Operações de Defesa Externa.
 
 
-### Academia Militar das Agulhas Negras [(AMAN)](http://www.aman.eb.mil.br/) (2011-2015)
+### [Academia Militar das Agulhas Negras (AMAN)](http://www.aman.eb.mil.br/) (Fev 2011 - Dez 2015)
  Instituição responsável pela formação dos oficiais combatentes de carreira do Exército Brasileiro - Resende, RJ.
 
  **Curso: Cavalaria** - Apos aprovação em concurso, ingressei na Academia Militar. Tive a honra de durante 5 anos frequentar, em regime integral, a formação básica, avançada e me especializar no curso de Cavalaria.
