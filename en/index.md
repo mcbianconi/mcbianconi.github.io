@@ -1,8 +1,9 @@
 [gimmick: theme](cosmo)
 
-Murillo Cesar Bianconi [[en-us]](/)
+Murillo Cesar Bianconi [[pt-br]](/)
 ======================
-Attention: This english version is not done yet.
+Attention: This english version is a WIP.
+Updated on September, 2020.s
 
 
 ## Who am I?
@@ -13,8 +14,7 @@ I'm a professional passionate about leading people and solving problems! A mix o
 ## Contact
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
-- Phone (**WhatsApp**): +55 55 99639-6855
-- Backup Phone: +55 12 988 916 937
+- Phone (**WhatsApp**): +55 12 988 916 937
 
 Note: The fastest way to find me is via WhatsApp!
 
@@ -43,27 +43,22 @@ Note: The fastest way to find me is via WhatsApp!
 
 ## A little bit of what can be seen online
 ----------------------------------------
-Hint: *Work in progress*
 
-- My profile on [github](https://github.com/mcbianconi)
-
-- My [mobile](https://github.com/mcbianconi/mi-card) learning journey.
-
-- Freelancer profile on the online[Workana](https://www.workana.com/freelancer/murillo-cesar-bianconi?utm_source=share-profile&utm_medium=email&utm_campaign=share-2019-10-20) platform.
-
-- [Military Cities](http://cidadesmilitares.herokuapp.com/): a simple application made with [open data](http://dados.gov.br/) from the government to centralize information about cities and military units.
+- My [github](https://github.com/mcbianconi) and [LinkedIn](https://www.linkedin.com/in/mcbianconi) profile.
 
 ## Know-How
 ---------------------------
-
+Feels confortable to work with:
 - **Python:** Django and its ecosystem.
 - **JavaScript:** Vue.js and Nuxt.
-- **Administration of Linux systems.**
+- **AWS:** Mainly IAM, EC2 and S3.
+
 
 **Studying:**
-- [] Golang
-- [x] Flutter
-- [  ] Cybersecurity
+- [x] Python (Always!)
+- [x] Golang
+- [ ] Flutter
+- [ ] Cybersecurity
 
 
 
@@ -85,7 +80,7 @@ Hint: *Work in progress*
 Startup - São José dos campos
 
 **Developer**: In 2020 I decided to give up my career as an officer in the Brazilian Army and dedicate myself entirely to Buser, which is a collaborative platform that is transforming the travel market!
-I am proud to be part of this story and I see it as one of the most important missions of my life, where I insist on keeping the values ​​that I cherished in almost 10 years of barracks.
+I am proud to be part of this story and I see it as one of the most important missions of my life, where I insist on keeping the values ​​that I cherished in almost 10 years in the Army.
 
 ### [12th Mechanized Cavalry Regiment](http://www.1rcmec.eb.mil.br) (Nov 2019 - Feb 2020)
 Cavalry Unit of the Brazilian Army - Jaguarão, RS.

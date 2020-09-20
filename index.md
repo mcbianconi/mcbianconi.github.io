@@ -2,6 +2,7 @@
 
 Murillo Cesar Bianconi [[en]](/en)
 ======================
+Atualizado em Setembro de 2020.
 
 ## Quem sou eu?
 Sou um profissional apaixonado por liderar pessoas e resolver problemas! Uma mistura de programador e Oficial de Cavalaria, que junta o melhor dos dois mundos para ser um profissional comprometido e eficiente!
@@ -11,8 +12,7 @@ Sou um profissional apaixonado por liderar pessoas e resolver problemas! Uma mis
 ## Contato
 - Email: [murillo.bianconi@gmail.com](mailto:murillo.bianconi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/mcbianconi)
-- Phone (**WhatsApp**): +55 55 99639-6855
-- Backup Phone: +55 12 988 916 937
+- Phone (**WhatsApp**): +55 12 988 916 937
 
 Note: A maneira mais rápida de me encontrar é pelo WhatsApp!
 
@@ -41,26 +41,22 @@ Note: A maneira mais rápida de me encontrar é pelo WhatsApp!
 
 ## Um pouco do que pode ser visto online
 ----------------------------------------
-Hint: *Work in progress*
 
-- Meu perfil no [github](https://github.com/mcbianconi)
+- Meu perfil no [github](https://github.com/mcbianconi) e no [LinkedIn](https://www.linkedin.com/in/mcbianconi). 
 
-- Minha jornada de aprendizagem [mobile](https://github.com/mcbianconi/mi-card)
-
-- Perfil de Freelancer na plataforma online [Workana](https://www.workana.com/freelancer/murillo-cesar-bianconi?utm_source=share-profile&utm_medium=email&utm_campaign=share-2019-10-20)
-
-- [Cidades Militares](http://cidadesmilitares.herokuapp.com/): uma aplicação simples feita com [dados abertos](http://dados.gov.br/) do governo para centralizar informações sobre cidades e unidades militares. 
 
 ## Know-How
 ---------------------------
-
+Me sinto confortável para trabalhar com:
 - **Python:** Django e seu ecossistema.
 - **JavaScript:** Vue.js e Nuxt.
-- **Administração de sistemas Linux.**
+- **AWS:** Principalmente IAM, EC2 and S3.
 
 **Estudando:**  
-- [ ] Golang
-- [x] Flutter
+**Studying:**
+- [x] Python (Sempre!)
+- [x] Golang
+- [ ] Flutter
 - [ ] Segurança Cibernética
 
 
