@@ -4,37 +4,51 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What This Is
 
-A personal CV/resume website hosted on GitHub Pages using [MDwiki](https://github.com/Dynalon/mdwiki) (v0.6.2). MDwiki is a client-side JavaScript application that reads Markdown files and renders them as a styled HTML page — there is no build step, no package manager, and no server-side code.
+A personal CV/resume website hosted on GitHub Pages. The site is plain static HTML + a single CSS file — **zero JavaScript, zero build step, zero runtime dependencies**. The previous MDwiki/Bootstrap/jQuery stack was removed in May 2026.
 
-## Content Files
+## File Layout
 
-All CV content lives in Markdown files:
+```
+/index.html        Portuguese (pt-BR) CV, served at /
+/en/index.html     English CV, served at /en/
+/style.css         Single stylesheet, shared by both pages
+/favicon.svg       Site favicon (inline SVG)
+/avatar.jpg        Legacy profile photo (kept for old external links)
+```
 
-- `index.md` — Portuguese (pt-br) version, served at `/`
-- `en/index.md` — English version, served at `/en/`
+The two HTML pages have the same structural skeleton; only the visible text differs. When editing one language, mirror the structural changes in the other so the layout stays in sync.
 
-**This is where all edits to the CV should be made.** Do not edit the HTML files to change content.
+## Design System
 
-## How MDwiki Works
+The visual is **neo-brutalism + solarpunk palette**:
 
-`index.html` (identical in both `/` and `/en/`) is the MDwiki runtime — a self-contained single-page app that:
-1. Loads when the browser visits the root
-2. Fetches and parses `index.md` from the same directory
-3. Renders the Markdown as a Bootstrap-styled page
+- Background: cream `#FAF5E6`
+- Primary text / forest green: `#1F3D2B`
+- Accent yellow (sun): `#F4C430`
+- Accent terracotta: `#C9542B`
+- Borders / shadows: ink `#0B0B0B`
+- Borders are always solid `3px solid #0B0B0B`; shadows are hard offsets (`6px 6px 0`) with no blur.
+- No `border-radius` anywhere.
+- Typography uses Google Fonts (Space Grotesk for display, JetBrains Mono for labels) with system fallbacks. The font `<link>` is the only external request the page makes.
 
-The `[gimmick:theme](cosmo)` directive at the top of each `.md` file sets the Bootstrap theme. The `[en]` / `[pt-br]` links between the two language versions are plain Markdown links.
+All design tokens are CSS custom properties at the top of `style.css` — change them there to retheme the whole site.
 
-## Configuration
+## Editing Content
 
-`config.json` controls MDwiki behavior for the whole site:
-- `useSideMenu` — enables a side navigation menu built from headings
-- `additionalFooterText` — custom footer text
-- `anchorCharacter` — character rendered next to anchor links
+All CV content is inline in the two HTML files. Edit the matching `<section>` in both `index.html` and `en/index.html`. Keep:
+
+- Sensitive contact info (phone, personal address, old email) out of the public site.
+- The footer "last updated" string in sync between languages.
 
 ## Deployment
 
-Pushing to the `main` branch automatically deploys via GitHub Pages. There is no CI pipeline or build process.
+Pushing to the `main` branch automatically deploys via GitHub Pages. No CI pipeline, no build process — the files in the repo are exactly what gets served.
 
-## Keeping Both Language Versions in Sync
+## Local Preview
 
-`en/index.html` is a byte-for-byte copy of `index.html`. If `index.html` ever needs updating (e.g. a new MDwiki version), the copy in `en/` must be updated identically.
+```bash
+python3 -m http.server 8000
+# then open http://localhost:8000 and http://localhost:8000/en/
+```
+
+Or open `index.html` directly in a browser via `file://` — works the same.
